@@ -1,0 +1,5 @@
+{
+  "name": "Naver Keyword Insight",
+  "description": "AI-powered dashboard providing Top 100 trending Naver keywords and detailed keyword analysis including competition and search volume estimates.",
+  "requestFramePermissions": []
+}
